@@ -164,8 +164,8 @@ print(response)
 ```yaml
 扩展阅读：
 Elasticsearch（简称ES）是一个广泛应用的开源搜索引擎: https://www.elastic.co/
-关于ES的安装、部署等知识，网上可以找到大量资料，例如: https://juejin.cn/post/7104875268166123528
-关于经典信息检索技术的更多细节，可以参考: https://nlp.stanford.edu/IR-book/information-retrieval-book.html
+关于ES的安装、部署: https://juejin.cn/post/7104875268166123528
+关于经典信息检索技术的更多细节: https://nlp.stanford.edu/IR-book/information-retrieval-book.html
 ```
 
 ### 2.6 关键字检索的局限性
