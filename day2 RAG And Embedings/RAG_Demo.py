@@ -179,7 +179,7 @@ def build_prompt(prompt_template, **kwargs):
 def get_completion(prompt):
     '''封装 Azure openai 接口'''
     api_base = 'https://micker-gpt-4-tubro.openai.azure.com/'  # your endpoint should look like the following https://YOUR_RESOURCE_NAME.openai.azure.com/
-    api_key = "2640762c94384b6a98436a8048d84670"
+    api_key = "YOUR_API_KEY"
     deployment_name = 'gpt-4-turbo'
     api_version = '2023-07-01-preview'  # this might change in the future
 
